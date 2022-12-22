@@ -9,9 +9,10 @@ Currently these values are obtained from sensors in the river, we have values si
 
 ### Images
 Variety of images provided
-<img src="Images/StateLineWeir_20150901_Farrell_009.JPG" width=400>
-<img src="Images/StateLineWeir_20140427_Farrell_010.JPG" width=400>>
-<img src="Images/StateLineWeir_20140427_Farrell_015.JPG" width=400>>
-<img src="Images/StateLineWeir_20140430_Farrell_084.JPG" width=400>>
-<img src="Images/StateLineWeir_20141120_Farrell_289.JPG" width=400>>
-<img src="Images/StateLineWeir_20150103_Farrell_010.JPG" width=400>>
+<br>
+<img src="Images/StateLineWeir_20150901_Farrell_009.JPG" width=330>
+<img src="Images/StateLineWeir_20140427_Farrell_010.JPG" width=330>
+<img src="Images/StateLineWeir_20140427_Farrell_015.JPG" width=330>
+<img src="Images/StateLineWeir_20140430_Farrell_084.JPG" width=330>
+<img src="Images/StateLineWeir_20141120_Farrell_289.JPG" width=330>
+<img src="Images/StateLineWeir_20150103_Farrell_010.JPG" width=330>
