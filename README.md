@@ -3,9 +3,9 @@
 ## River Stage level prediction using images
 
 ## Content
-[Problem](#problem)
-[CNN](#cnn)
-[Images](#images)
+* [Problem](#problem)
+* [CNN](#cnn)
+* [Images](#images)
 
 ### Problem
 The objective of this project is to create an AI model to predict the level of Stage seeking to implement the same strategy for other values such as Discharge.
