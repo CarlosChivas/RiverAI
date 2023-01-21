@@ -4,6 +4,7 @@
 
 ## Content
 * [Problem](#problem)
+* [Dataset](#dataset-predictions)
 * [CNN](#cnn)
 * [Images](#images)
 
@@ -11,6 +12,11 @@
 The objective of this project is to create an AI model to predict the level of Stage seeking to implement the same strategy for other values such as Discharge.
 
 Currently these values are obtained from sensors in the river, we have values since 2012, the problem with the sensors is the cost of keeping them working correctly and the cost of buying them whenever necessary.
+
+### Dataset predictions
+With the provided dataset we were able to create some regression models using libraries such as statsmodels or sklearn, these models use characteristics such as the white water present in the images, Gray scale mean of all the pixel intensities, Mean of all the pixel intensities in the saturation channel or Maximum pixel distance from weir line to whitewater raw down.
+
+We cleaned the data before being able to process it, we defined which variables were relevant to take them into account and which were not to be able to rule them out in our models, we treated the outliers to understand their meaning and see the impact they had on our results
 
 ### CNN
 Seeking to avoid the use of sensors in the river to save costs of keeping the sensors working and repairing them in case of damage, another option is on the table, trying to predict the values using only images of the river.
